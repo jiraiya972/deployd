@@ -12,7 +12,7 @@
   "main": "index",
   "dependencies": {
     "validation": "*",
-    "mongodb": "1.0.2",
+    "mongodb": "*",
     "request": "2.x.x",
     "commander": "1.0.x",
     "cookies": ">= 0.3.0",
